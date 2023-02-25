@@ -1,0 +1,8 @@
+# You need to provide details about yourself that we can use to contact you.
+[user]
+username = "VulcanWM"
+email = "vulcanwmemail@gmail.com"
+
+[records]
+# Your site's records, i.e.
+URL = "https://vulcanwm.is-a.dev/"

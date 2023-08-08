@@ -1,0 +1,10 @@
+# You need to provide details about yourself that we can use to contact you.
+[user]
+username = "cheekie-cheats"
+# You have to have one of these.
+discord = "unstablemaple"
+
+[records]
+# I have no idea what this is, I just need a free subdomain to host minecraft server(s) with my friends.
+# Your site's records, i.e.
+CNAME = "CNAME here"
